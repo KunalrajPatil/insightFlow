@@ -1,14 +1,14 @@
-# InsightFlow – E-Commerce Analytics Dashboard
+# insightFlow – E-Commerce Analytics Dashboard
 
-InsightFlow is a full-stack analytics platform designed to explore e-commerce business data and uncover insights that support better decision-making. It brings together sales performance, customer trends, product profitability, returns, and shipping analytics in one interactive dashboard.
+insightFlow is a full-stack analytics platform designed to explore e-commerce business data and uncover insights that support better decision-making. It brings together sales performance, customer trends, product profitability, returns, and shipping analytics in one interactive dashboard.
 
-Rather than simply presenting numbers, InsightFlow focuses on understanding business performance, identifying potential issues, and highlighting areas that require attention.
+Rather than simply presenting numbers, insightFlow focuses on understanding business performance, identifying potential issues, and highlighting areas that require attention.
 
 ## Overview
 
 E-commerce businesses generate large amounts of operational data, but turning that data into meaningful business insights requires more than basic reporting.
 
-InsightFlow addresses this by combining SQL-based analytical queries with an interactive dashboard, allowing users to investigate business metrics and understand the factors influencing performance.
+insightFlow addresses this by combining SQL-based analytical queries with an interactive dashboard, allowing users to investigate business metrics and understand the factors influencing performance.
 
 ## Key Features
 
@@ -47,7 +47,7 @@ Some of the major concepts implemented include:
 ## Project Structure
 
 ```text
-InsightFlow/
+insightFlow/
 │
 ├── backend/
 │   ├── main.py
@@ -68,7 +68,7 @@ InsightFlow/
 
 ## Getting Started
 
-Follow these instructions to run InsightFlow locally.
+Follow these instructions to run insightFlow locally.
 
 ### Prerequisites
 
@@ -82,13 +82,13 @@ Make sure you have installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/InsightFlow.git
+git clone https://github.com/KunalrajPatil/insightFlow.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd InsightFlow
+cd insightFlow
 ```
 
 ### 2. Set Up the Backend
@@ -161,7 +161,7 @@ The frontend will run at the local development URL displayed in your terminal.
 
 ## Business Questions Explored
 
-InsightFlow is built around practical business questions:
+insightFlow is built around practical business questions:
 
 1. Which regions and managers have higher-than-usual product return rates?
 2. Who are the highest revenue-contributing customers in each state?
@@ -193,6 +193,3 @@ Potential enhancements include:
 
 Developed as a hands-on project combining SQL, Python, backend development, frontend development, and business analytics.
 
----
-
-*InsightFlow – Turning Business Data into Meaningful Insights.*
